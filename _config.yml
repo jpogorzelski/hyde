@@ -5,11 +5,11 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Jakub Pogorzelski's blog
+title:            Jakub Pogorzelski
 tagline:          'Dev blog'
-description:      'Personal blog of Jakub Pogorzelski'
+description:      'Java Developer'
 url:              https://jpogorzelski.github.io
-baseurl:          /blog/
+baseurl:          /blog
 
 author:
   name:           'Jakub Pogorzelski'
